@@ -12,5 +12,7 @@ https://www.youtube.com/watch?v=gbaVc9uLGkQ
 
 
 # Cucumber report screenshots
+![Index repeort](https://github.com/farhafasil/web-automation-test/blob/master/cucumber-html-reports/report_1.png?raw=true)
+![Detail repeort](https://github.com/farhafasil/web-automation-test/blob/master/cucumber-html-reports/report-2.png?raw=true)
 
 

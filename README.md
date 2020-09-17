@@ -9,8 +9,8 @@ Cucumber reports.
 https://github.com/farhafasil/web-automation-test/blob/master/src/test/resources/features/travel/Order-travel-card-online.feature
 
 
-# Autiomation in action
-To view the autionmation in action visit
+# Automation in action
+To view the automation in action visit
 https://www.youtube.com/watch?v=gbaVc9uLGkQ
 
 
